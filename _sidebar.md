@@ -11,6 +11,11 @@
      - [Logo setting](logo-setting.md)
      - [Image & Background image](image-background.md)
      - [Header Menu Item](header-menu.md)
+     - [Hero section](hero-section.md)
+     - [Promo section](promo-section.md)
+     - [Video promo](video-promo.md)
+     - [About section](about-section.md)
+     - [Service section](service-section.md)
      - [Footer](footer.md)
      - [Utility Classes](utility-classes.md)
     

@@ -1,4 +1,4 @@
-<img src="//agencyco.themetags.com/img/logo-color-1x.png" />
+<img src="http://agencyco.themetags.com/img/logo-color-1x.png" />
 
 ### Welcome
 
