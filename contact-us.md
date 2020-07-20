@@ -68,7 +68,7 @@ Change the email address "hellothemetags@gmail.com" with your email address. Ple
 
 // change email with your email
 $EmailTo = "hellothemetags@gmail.com";
-$Subject = "AppCo:: New Message Received form contact";
+$Subject = "AgencyCo:: New Message Received form contact";
 
 // prepare email body text
 $Body = "";
